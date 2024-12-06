@@ -117,7 +117,7 @@ class Home
                     {
                         Console.WriteLine("Ошибка, задано стандартное значение");
                     }
-                    Console.WriteLine("Введите название картины");
+                    Console.WriteLine("Введите год написания картины");
                     string Y = Console.ReadLine();
                     Console.WriteLine("Введите id стиля");
                     int IS = 0;
